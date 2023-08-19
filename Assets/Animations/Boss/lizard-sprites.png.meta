@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: fa5dcf92453d6884a88a4a76e5dae992
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: lizard-sprites_0
+  - first:
+      213: 21300002
+    second: lizard-sprites_1
+  - first:
+      213: 21300004
+    second: lizard-sprites_2
+  - first:
+      213: 21300006
+    second: lizard-sprites_3
+  - first:
+      213: 21300008
+    second: lizard-sprites_4
+  - first:
+      213: 21300010
+    second: lizard-sprites_5
+  - first:
+      213: 21300012
+    second: lizard-sprites_6
+  - first:
+      213: 21300014
+    second: lizard-sprites_7
+  - first:
+      213: 21300016
+    second: lizard-sprites_8
+  - first:
+      213: 21300018
+    second: lizard-sprites_9
+  - first:
+      213: 21300020
+    second: lizard-sprites_10
+  - first:
+      213: 21300022
+    second: lizard-sprites_11
+  - first:
+      213: 21300024
+    second: lizard-sprites_12
+  - first:
+      213: 21300026
+    second: lizard-sprites_13
+  - first:
+      213: 21300028
+    second: lizard-sprites_14
+  - first:
+      213: 21300030
+    second: lizard-sprites_15
+  - first:
+      213: 21300032
+    second: lizard-sprites_16
+  - first:
+      213: 21300034
+    second: lizard-sprites_17
+  - first:
+      213: 21300036
+    second: lizard-sprites_18
+  - first:
+      213: 21300038
+    second: lizard-sprites_19
+  - first:
+      213: 21300040
+    second: lizard-sprites_20
+  - first:
+      213: 21300042
+    second: lizard-sprites_21
+  - first:
+      213: 21300044
+    second: lizard-sprites_22
+  - first:
+      213: 21300046
+    second: lizard-sprites_23
+  - first:
+      213: 21300048
+    second: lizard-sprites_24
+  - first:
+      213: 21300050
+    second: lizard-sprites_25
+  - first:
+      213: 21300052
+    second: lizard-sprites_26
+  - first:
+      213: 21300054
+    second: lizard-sprites_27
+  - first:
+      213: 21300056
+    second: lizard-sprites_28
+  - first:
+      213: 21300058
+    second: lizard-sprites_29
+  - first:
+      213: 21300060
+    second: lizard-sprites_30
+  - first:
+      213: 21300062
+    second: lizard-sprites_31
+  - first:
+      213: 21300064
+    second: lizard-sprites_32
+  - first:
+      213: 21300066
+    second: lizard-sprites_33
+  - first:
+      213: 21300068
+    second: lizard-sprites_34
+  - first:
+      213: 21300070
+    second: lizard-sprites_35
+  - first:
+      213: 21300072
+    second: lizard-sprites_36
+  - first:
+      213: 21300074
+    second: lizard-sprites_37
+  - first:
+      213: 21300076
+    second: lizard-sprites_38
+  - first:
+      213: 21300078
+    second: lizard-sprites_39
+  - first:
+      213: 21300080
+    second: lizard-sprites_40
+  - first:
+      213: 21300082
+    second: lizard-sprites_41
+  - first:
+      213: 21300084
+    second: lizard-sprites_42
+  - first:
+      213: 21300086
+    second: lizard-sprites_43
+  - first:
+      213: 21300088
+    second: lizard-sprites_44
+  - first:
+      213: 21300090
+    second: lizard-sprites_45
+  - first:
+      213: 21300092
+    second: lizard-sprites_46
+  - first:
+      213: 21300094
+    second: lizard-sprites_47
+  - first:
+      213: 21300096
+    second: lizard-sprites_48
+  - first:
+      213: 21300098
+    second: lizard-sprites_49
+  - first:
+      213: 21300100
+    second: lizard-sprites_50
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lizard-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 619
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5496cad1f74a304495741a492e318ab
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 613
+        width: 128
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0646e317526c75f40b573944add4e872
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 612
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4950be4af348148b62e1b1f1b431b0
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 610
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b042efd8d4a5b49ac2e19a1a9a1e22
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 611
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2945aab13583c6543938f9b86d5710f2
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 607
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fac7d314e12a8408e717efd85db774
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 428
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117835a64424d904691fcdc9cf016758
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 427
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9563510e1f6c04aa8e8853fef5d5b1
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 427
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82701199749363148b022269f0adb435
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 428
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7201bd38ab80974e9164bdeec66931e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 430
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362cd381d39b2694783b946382ecb6d9
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 428
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7302afe895a943aae1ab5cd0b9ee1
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 427
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032105f9c1c444848a298715b2258681
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 428
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38ad8690220ed94393ddc9c53532e5b
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 229
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa702b4f288b8744b63da1e216bac41
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 221
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16980fd6edba5ad41808ed151d63489d
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 229
+        width: 144
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f5e8f78e27f142aaa75cfe9748463
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 241
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ae97dd4bfe9ff4a944c6a9899ba20f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 235
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75c73152e085d445a39863d59f81ed4
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 240
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950d6b8308797ba41bbbaf002f7c9ea4
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 45
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c67a35e6ccd84193834d10ec3cdc3
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 45
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0477f73810d9949a2b23f72c470615
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 46
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8399d057d8fdc41989f4079405b613
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_23
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 75
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8d8c252213e24798396e6ce7115e9
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_24
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 45
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa83e81368b93324094627108e5bb63c
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lizard-sprites_25
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 43
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f0ee4dde2aa76458debb2eb0dc5ba8
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a67817509c2e84b4599cda36e4856589
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lizard-sprites_11: 21300022
+      lizard-sprites_23: 21300046
+      lizard-sprites_9: 21300018
+      lizard-sprites_12: 21300024
+      lizard-sprites_3: 21300006
+      lizard-sprites_2: 21300004
+      lizard-sprites_22: 21300044
+      lizard-sprites_4: 21300008
+      lizard-sprites_6: 21300012
+      lizard-sprites_20: 21300040
+      lizard-sprites_10: 21300020
+      lizard-sprites_25: 21300050
+      lizard-sprites_17: 21300034
+      lizard-sprites_14: 21300028
+      lizard-sprites_19: 21300038
+      lizard-sprites_8: 21300016
+      lizard-sprites_24: 21300048
+      lizard-sprites_1: 21300002
+      lizard-sprites_21: 21300042
+      lizard-sprites_7: 21300014
+      lizard-sprites_18: 21300036
+      lizard-sprites_15: 21300030
+      lizard-sprites_5: 21300010
+      lizard-sprites_16: 21300032
+      lizard-sprites_0: 21300000
+      lizard-sprites_13: 21300026
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

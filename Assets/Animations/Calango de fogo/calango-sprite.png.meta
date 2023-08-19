@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: ba1e220933d4cb6428546577ad855281
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: calango-sprite_0
+  - first:
+      213: 21300002
+    second: calango-sprite_1
+  - first:
+      213: 21300004
+    second: calango-sprite_2
+  - first:
+      213: 21300006
+    second: calango-sprite_3
+  - first:
+      213: 21300008
+    second: calango-sprite_4
+  - first:
+      213: 21300010
+    second: calango-sprite_5
+  - first:
+      213: 21300012
+    second: calango-sprite_6
+  - first:
+      213: 21300014
+    second: calango-sprite_7
+  - first:
+      213: 21300016
+    second: calango-sprite_8
+  - first:
+      213: 21300018
+    second: calango-sprite_9
+  - first:
+      213: 21300020
+    second: calango-sprite_10
+  - first:
+      213: 21300022
+    second: calango-sprite_11
+  - first:
+      213: 21300024
+    second: calango-sprite_12
+  - first:
+      213: 21300026
+    second: calango-sprite_13
+  - first:
+      213: 21300028
+    second: calango-sprite_14
+  - first:
+      213: 21300030
+    second: calango-sprite_15
+  - first:
+      213: 21300032
+    second: calango-sprite_16
+  - first:
+      213: 21300034
+    second: calango-sprite_17
+  - first:
+      213: 21300036
+    second: calango-sprite_18
+  - first:
+      213: 21300038
+    second: calango-sprite_19
+  - first:
+      213: 21300040
+    second: calango-sprite_20
+  - first:
+      213: 21300042
+    second: calango-sprite_21
+  - first:
+      213: 21300044
+    second: calango-sprite_22
+  - first:
+      213: 21300046
+    second: calango-sprite_23
+  - first:
+      213: 21300048
+    second: calango-sprite_24
+  - first:
+      213: 21300050
+    second: calango-sprite_25
+  - first:
+      213: 21300052
+    second: calango-sprite_26
+  - first:
+      213: 21300054
+    second: calango-sprite_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: calango-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 566
+        width: 149
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3952bfe5d565940a0b1a933a6c183f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 566
+        width: 149
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b9d444a3ee69d4281e8bc4a7782e22
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 566
+        width: 149
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec1e1295829ee64cb8c6f84fbfe680a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 566
+        width: 149
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45683854ba056428f906d625e477ff
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 565
+        width: 149
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d2f83e3161bcf49af08489ff8e7fdb
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 565
+        width: 149
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c61d6ad94e1ee34b92b89c52896ca27
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 477
+        width: 149
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2569a3c010e1c43939c9956dd69e45
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 476
+        width: 148
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ef14a74bdca848bfc1e4bba4ab8f2
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 476
+        width: 149
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6834b64943345d041ae81be5762b2158
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 476
+        width: 148
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232fe29dafc82343904e586c08395f6
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 387
+        width: 148
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee86e065cd093b42ac842666d9f57ec
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 295
+        width: 148
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd946bb87c29c4c8fd37737183dc1b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 295
+        width: 162
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55caca306a3e3d64196c45884a97066b
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 294
+        width: 163
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3adf1de1c4742c4fae91e3584892fd7
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 294
+        width: 166
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f5d563d8c103c4caab4985819ea6d3
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 294
+        width: 166
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e5bf0ec5526f6449820c1b87718073
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 294
+        width: 166
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40446fdf630cf2a4e81a2b6010340bc9
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 205
+        width: 149
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131e100cef94627468ba1284f2d21242
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 205
+        width: 152
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d19ca9af475724fb29eeb49a1532a8
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 205
+        width: 151
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45b204557808bf4c833df164b5126af
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 205
+        width: 146
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f0c652ccb1fb49a3e996c666a2281
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 205
+        width: 210
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33b1537cceef514490b7aac580fd0c9
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 205
+        width: 149
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d9828bb9731c441951d3bbc865257f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 89
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b923b96475f124d449d1268321ccebe8
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 89
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29871d77eb758b4ca953fce6bf0e175
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 89
+        width: 83
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a73698deeb6034a88a8935494adfc8
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 90
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee513aa8961c3c74cbdd86ec54ea2b32
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: calango-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 226
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31350746058c88499821cc11b1a0f8f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 42b9b95714f4ac3499c8a35eca2b696c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      calango-sprite_8: 21300016
+      calango-sprite_9: 21300018
+      calango-sprite_11: 21300022
+      calango-sprite_2: 21300004
+      calango-sprite_12: 21300024
+      calango-sprite_25: 21300050
+      calango-sprite_19: 21300038
+      calango-sprite_21: 21300042
+      calango-sprite_3: 21300006
+      calango-sprite_20: 21300040
+      calango-sprite_23: 21300046
+      calango-sprite_17: 21300034
+      calango-sprite_13: 21300026
+      calango-sprite_5: 21300010
+      calango-sprite_0: 21300000
+      calango-sprite_10: 21300020
+      calango-sprite_22: 21300044
+      calango-sprite_14: 21300028
+      calango-sprite_18: 21300036
+      calango-sprite_26: 21300052
+      calango-sprite_16: 21300032
+      calango-sprite_6: 21300012
+      calango-sprite_24: 21300048
+      calango-sprite_7: 21300014
+      calango-sprite_1: 21300002
+      calango-sprite_15: 21300030
+      calango-sprite_4: 21300008
+      calango-sprite_27: 21300054
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
